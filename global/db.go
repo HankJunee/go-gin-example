@@ -77,7 +77,6 @@ func createDSN(dbName string) string {
 		dbName = c.DBName
 	}
 
-	// 连接数据库
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=%s", c.UserName, c.Password, c.DbHost, c.DbPort, dbName, timeZone)
 
 	return dsn

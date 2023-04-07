@@ -1,6 +1,0 @@
-2023/04/08 04:25:33 数据库连接失败: invalid DSN: missing the slash separating the database name
-2023/04/08 04:26:07 数据库连接失败: invalid DSN: missing the slash separating the database name
-2023/04/08 04:27:35 数据库连接失败: invalid DSN: missing the slash separating the database name
-2023/04/08 04:28:09 数据库连接失败: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
-2023/04/08 04:28:50 数据库连接失败: invalid DSN: missing the slash separating the database name
-2023/04/08 04:38:10 数据库 testing 创建成功
